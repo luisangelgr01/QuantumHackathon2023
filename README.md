@@ -16,7 +16,7 @@ Dentro de cada notebook se encuentra paso a paso la ejecución de los mismos par
 
 
 ## Presentación y Video de Solución
-El video adjunto se muestra la presentación de la solución para el Quantum Hackathon de nuestro equipo.
+El video adjunto con liga a Google Drive muestra la presentación de la solución para el Quantum Hackathon de nuestro equipo.
 [https://drive.google.com/file/d/1pITivpQGRhFvHukzH_wsLr1fUbTaWjgf/view?usp=sharing](https://drive.google.com/file/d/1pITivpQGRhFvHukzH_wsLr1fUbTaWjgf/view?usp=sharing)
 
 
