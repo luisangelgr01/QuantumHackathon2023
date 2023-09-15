@@ -15,8 +15,9 @@ El archivo de Python Notebook llamado "SimulatorQiskitCodeQuantumHackaton.ipynb"
 Dentro de cada notebook se encuentra paso a paso la ejecución de los mismos para llegar a la solución.
 
 
-## Presentación de Solución
+## Presentación y Video de Solución
 El video adjunto se muestra la presentación de la solución para el Quantum Hackathon de nuestro equipo.
+[https://drive.google.com/file/d/1pITivpQGRhFvHukzH_wsLr1fUbTaWjgf/view?usp=sharing](https://drive.google.com/file/d/1pITivpQGRhFvHukzH_wsLr1fUbTaWjgf/view?usp=sharing)
 
 
 ### Link de repositorio en GitHub
@@ -25,5 +26,3 @@ El video adjunto se muestra la presentación de la solución para el Quantum Hac
 
 ### Carpeta por Sharepoint con todos los archivos y documentos
 [https://tecmx-my.sharepoint.com/personal/german_dominguez_tec_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgerman%5Fdominguez%5Ftec%5Fmx%2FDocuments%2FQuantum%20Hackathon%202023%2FEquipo%2018&ct=1694800455020&or=OWA%2DNT&cid=2c3b7b3e%2Deb07%2D2e7c%2Dbb3d%2D01027d86bb0d&ga=1&WSL=1](https://tecmx-my.sharepoint.com/personal/german_dominguez_tec_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgerman%5Fdominguez%5Ftec%5Fmx%2FDocuments%2FQuantum%20Hackathon%202023%2FEquipo%2018&ct=1694800455020&or=OWA%2DNT&cid=2c3b7b3e%2Deb07%2D2e7c%2Dbb3d%2D01027d86bb0d&ga=1&WSL=1)
-
-
