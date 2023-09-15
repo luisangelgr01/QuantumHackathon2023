@@ -8,3 +8,16 @@ Equipo Revolucionarios de Qubits:
 - Luis Felipe Marino Palafox A07106565
 - Adrian Gómez Ortiz A01721790
 - Juan Pablo Solís Ruiz A01067387
+
+## Manera de ejecución
+El archivo de Python Notebook llamado "SimulatorQiskitCodeQuantumHackaton.ipynb" es el código que utilizamos para correr en un simulador de computadora cuántica de IBM en la nube. Por otro lado, el archivo llamado "RealQuantumComputerQiskitCodeHackathon.ipynb" es el código que se usó para correr en una computadora cuántica real de 127 Qubits.
+
+Dentro de cada notebook se encuentra paso a paso la ejecución de los mismos para llegar a la solución.
+
+
+## Presentación de Solución
+El video adjunto se muestra la presentación de la solución para el Quantum Hackathon de nuestro equipo.
+
+
+### Carpeta por Sharepoint con todos los archivos y documentos
+[https://tecmx-my.sharepoint.com/personal/german_dominguez_tec_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgerman%5Fdominguez%5Ftec%5Fmx%2FDocuments%2FQuantum%20Hackathon%202023%2FEquipo%2018&ct=1694800455020&or=OWA%2DNT&cid=2c3b7b3e%2Deb07%2D2e7c%2Dbb3d%2D01027d86bb0d&ga=1&WSL=1](https://tecmx-my.sharepoint.com/personal/german_dominguez_tec_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgerman%5Fdominguez%5Ftec%5Fmx%2FDocuments%2FQuantum%20Hackathon%202023%2FEquipo%2018&ct=1694800455020&or=OWA%2DNT&cid=2c3b7b3e%2Deb07%2D2e7c%2Dbb3d%2D01027d86bb0d&ga=1&WSL=1)
